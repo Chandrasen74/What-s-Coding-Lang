@@ -35,6 +35,7 @@ python -m http.server 8000
 ```
 
 ## Repository structure (top-level/sample)
+- `.nojekyll`
 - `README.md`
 - `index.html`
 - `logo.png`
